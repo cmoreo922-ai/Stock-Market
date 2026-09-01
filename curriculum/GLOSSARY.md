@@ -1,0 +1,47 @@
+# Glossary
+
+Plain-English definitions, alphabetical.
+
+- **Ask** — The lowest price a seller will currently accept.
+- **Bear market** — A decline of 20%+ from a recent high; "bearish" = expecting prices to fall.
+- **Bid** — The highest price a buyer will currently pay.
+- **Blue chip** — A large, established, financially sound company.
+- **Bull market** — A sustained period of rising prices; "bullish" = expecting prices to rise.
+- **Capital gain/loss** — Profit or loss from selling an asset vs. what you paid.
+- **Compounding** — Earning returns on prior returns; the engine of long-term wealth.
+- **Dividend** — A cash payment of company profits to shareholders, usually quarterly.
+- **Dollar-cost averaging (DCA)** — Investing a fixed amount on a fixed schedule regardless of price.
+- **Earnings per share (EPS)** — Net income divided by shares outstanding.
+- **ETF (exchange-traded fund)** — A fund holding many securities that trades like a single stock.
+- **Ex-dividend date** — Buy before this date to receive the next dividend.
+- **Expense ratio** — A fund's annual fee as a percentage of assets; lower is better.
+- **Free cash flow (FCF)** — Cash from operations minus capital expenditures; cash truly available to owners.
+- **Fundamental analysis** — Valuing a stock by studying the underlying business.
+- **Index** — A measure of a market segment's level (e.g., S&P 500).
+- **Index fund** — A fund that passively tracks an index at minimal cost.
+- **IPO** — Initial public offering; a company's first sale of shares to the public.
+- **Limit order** — An order that executes only at your specified price or better.
+- **Liquidity** — How easily an asset can be traded without moving its price.
+- **Margin** — Money borrowed from a broker to buy securities; amplifies gains and losses.
+- **Market capitalization** — Share price × shares outstanding; the company's total market value.
+- **Market order** — An order that executes immediately at the best available price.
+- **Moat** — A durable competitive advantage protecting a company's profits.
+- **Moving average** — Average price over the last N days, updated daily; smooths out noise.
+- **P/E ratio** — Price ÷ earnings per share; years of current earnings you're paying for.
+- **Portfolio** — All the investments you hold.
+- **Position** — Your holding in a particular security.
+- **Rebalancing** — Periodically restoring your portfolio to target allocations.
+- **Resistance** — A price level where rallies have repeatedly stalled.
+- **RSI** — Relative Strength Index; a 0–100 momentum gauge of recent gains vs. losses.
+- **Sector** — An industry grouping (technology, healthcare, energy, ...).
+- **Short selling** — Selling borrowed shares hoping to rebuy cheaper; unlimited potential loss.
+- **Spread** — The gap between bid and ask; a hidden trading cost.
+- **Stop-loss** — An order that sells automatically if price falls to a set level.
+- **Support** — A price level where declines have repeatedly stopped.
+- **Technical analysis** — Studying price and volume history to time decisions.
+- **Ticker** — A stock's exchange symbol (AAPL, MSFT, VOO).
+- **Value trap** — A stock that looks statistically cheap because the business is deteriorating.
+- **Volatility** — How much and how fast a price swings.
+- **Volume** — Number of shares traded in a period.
+- **Wash sale** — Rebuying a security within 30 days of selling it at a loss, disallowing the tax deduction.
+- **Yield** — Annual income (dividends/interest) as a percentage of price.
