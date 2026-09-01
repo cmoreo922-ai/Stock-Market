@@ -29,11 +29,25 @@ paper-trading simulator before ever risking real money.
 | [07 – Building a Strategy](curriculum/07-building-a-strategy.md) | Putting it together into a written plan you can follow |
 | [Glossary](curriculum/GLOSSARY.md) | Plain-English definitions of common terms |
 
+### Advanced modules
+
+| Module | Topic |
+|--------|-------|
+| [08 – Day Trading & Swing Trading](curriculum/08-day-trading-and-swing-trading.md) | How short-term trading works, the PDT rule, and the brutal statistics |
+| [09 – Bear Markets & Cycles](curriculum/09-bear-markets-and-cycles.md) | Corrections, crashes, recessions — history and what to actually do |
+| [10 – Foreign & Global Markets](curriculum/10-foreign-and-global-markets.md) | World exchanges, ADRs, emerging markets, currency risk |
+| [11 – The Strategy Playbook](curriculum/11-strategy-playbook.md) | Value, growth, momentum, dividends, event-driven, copy trading — evidence and fit |
+| [12 – Congressional Trades](curriculum/12-congressional-trades.md) | The STOCK Act, tracking politicians' trades, and mirroring honestly |
+| [13 – Automation & Broker APIs](curriculum/13-automation-and-broker-apis.md) | Bots, the Robinhood reality, Alpaca paper trading, and fail-safe design |
+
 ## Tools
 
 - **`tools/paper_trader.py`** — a command-line paper-trading simulator with live
   prices (via `yfinance` when installed, manual price entry otherwise). Tracks
   cash, positions, and profit/loss across sessions.
+- **`tools/congress_trades.py`** — browses official US House stock-trade
+  disclosures (STOCK Act filings) straight from disclosures-clerk.house.gov,
+  with direct links to each trade report PDF. No API key needed.
 - **`journal/TEMPLATE.md`** — trade journal template.
 
 ```bash
@@ -44,6 +58,9 @@ python tools/paper_trader.py buy AAPL 10
 python tools/paper_trader.py portfolio
 python tools/paper_trader.py sell AAPL 5
 python tools/paper_trader.py history
+
+python tools/congress_trades.py latest          # recent congressional trade filings
+python tools/congress_trades.py member pelosi   # filings by member name
 ```
 
 ## Important disclaimer
